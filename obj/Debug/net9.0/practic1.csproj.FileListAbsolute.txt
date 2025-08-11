@@ -12,3 +12,4 @@ C:\Users\Tuf\Desktop\c# curse\practic1\obj\Debug\net9.0\refint\practic1.dll
 C:\Users\Tuf\Desktop\c# curse\practic1\obj\Debug\net9.0\practic1.pdb
 C:\Users\Tuf\Desktop\c# curse\practic1\obj\Debug\net9.0\practic1.genruntimeconfig.cache
 C:\Users\Tuf\Desktop\c# curse\practic1\obj\Debug\net9.0\ref\practic1.dll
+C:\Users\Tuf\Desktop\c# curse\practic1\obj\Debug\net9.0\practic1.sourcelink.json
